@@ -1,10 +1,10 @@
 "
-"########### ˆÈ‰º©•ª‚Åİ’è 2015/12/31
+"########### ä»¥ä¸‹è‡ªåˆ†ã§è¨­å®š 2015/12/31
 set clipboard=unnamed,autoselect
 
-"########### 2016/2/14 vimrc‚É‹Lq‚Í‚µ‚Ä‚¢‚È‚¢‚ªAå‚É•¶šƒR[ƒhutf-8‚Ìrubyƒtƒ@ƒCƒ‹‚ğŠJ
-"‚¢‚½Û‚É–ˆ‰ñ•¶š‰»‚¯‚·‚é‚½‚ßAvim©‘Ì‚ğutf-8‰»‚µ‚½B
-"‹ï‘Ì“I‚É‚ÍAD:\Tools\vim74-kaoriya-win32\switches\catalog\utf-8.vim ‚ğA
-"D:\Tools\vim74-kaoriya-win32\switches\enabled@‚ÉƒRƒs[‚µ‚½@¨@–â‘è‚Í‰ğÁ‚µ
-"‚½
-"(Ql)https://sites.google.com/site/fudist/Home/vim-nihongo-ban
+"########### 2016/2/14 vimrcã«è¨˜è¿°ã¯ã—ã¦ã„ãªã„ãŒã€ä¸»ã«æ–‡å­—ã‚³ãƒ¼ãƒ‰utf-8ã®rubyãƒ•ã‚¡ã‚¤ãƒ«ã‚’é–‹
+"ã„ãŸéš›ã«æ¯å›æ–‡å­—åŒ–ã‘ã™ã‚‹ãŸã‚ã€vimè‡ªä½“ã‚’utf-8åŒ–ã—ãŸã€‚
+"å…·ä½“çš„ã«ã¯ã€D:\Tools\vim74-kaoriya-win32\switches\catalog\utf-8.vim ã‚’ã€
+"D:\Tools\vim74-kaoriya-win32\switches\enabledã€€ã«ã‚³ãƒ”ãƒ¼ã—ãŸã€€â†’ã€€å•é¡Œã¯è§£æ¶ˆã—
+"ãŸ
+"(å‚è€ƒ)https://sites.google.com/site/fudist/Home/vim-nihongo-ban
