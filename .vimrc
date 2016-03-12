@@ -1,0 +1,10 @@
+"
+"########### 以下自分で設定 2015/12/31
+set clipboard=unnamed,autoselect
+
+"########### 2016/2/14 vimrcに記述はしていないが、主に文字コードutf-8のrubyファイルを開
+"いた際に毎回文字化けするため、vim自体をutf-8化した。
+"具体的には、D:\Tools\vim74-kaoriya-win32\switches\catalog\utf-8.vim を、
+"D:\Tools\vim74-kaoriya-win32\switches\enabled　にコピーした　→　問題は解消し
+"た
+"(参考)https://sites.google.com/site/fudist/Home/vim-nihongo-ban
