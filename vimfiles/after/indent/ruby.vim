@@ -2,4 +2,5 @@
 " shiftwidth: 自動インデントや"<<"、">>"で動く幅の設定
 " softtabstop: TABキーやBSキーを打ち込んだときに動く幅の設定
 setlocal tabstop=2 shiftwidth=2 softtabstop=2
-set expandtab
+setlocal expandtab
+setlocal autoindent
