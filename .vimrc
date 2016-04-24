@@ -4,6 +4,7 @@
 "set clipboard=unnamed,autoselect
 "
 set clipboard=unnamedplus
+set nobackup
 
 filetype plugin on
 filetype plugin indent on
