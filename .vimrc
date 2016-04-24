@@ -5,6 +5,8 @@
 "
 set clipboard=unnamedplus
 set nobackup
+set undodir=$home/var/vim/undo
+
 
 filetype plugin on
 filetype plugin indent on

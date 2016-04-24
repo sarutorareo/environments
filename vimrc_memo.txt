@@ -5,3 +5,4 @@
 "D:\Tools\vim74-kaoriya-win32\switches\enabled　にコピーした　→　問題は解消し
 "た
 "(参考)https://sites.google.com/site/fudist/Home/vim-nihongo-ban
+"
