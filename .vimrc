@@ -8,6 +8,11 @@ set nobackup
 set undofile
 set undodir=$HOME/var/vim/undo
 
+"### 2016/10/17 検索結果のハイライト, 検索の大文字、小文字
+set hlsearch
+set ignorecase
+set smartcase
+
 
 filetype plugin on
 filetype plugin indent on
@@ -18,6 +23,7 @@ let &t_ti.="\e[1 q"
 let &t_SI.="\e[5 q"
 let &t_EI.="\e[1 q"
 let &t_te.="\e[0 q"
+inoremap <Esc> <Esc>
 
 
 "### 2016/7/3 tagsジャンプの時に複数ある時は一覧表示                                        
